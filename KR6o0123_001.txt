@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:14.793525
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 起信論註
 #+PROPERTY: CBETA_ID T85n2815
 #+PROPERTY: ID KR6o0123
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2815
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0123_T_000-1174a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0123_T_001-1174a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2815[cf.No.1667]¶
-
- 起信論註¶
+No. 2815 [cf. No. 1667]¶
+起信論註¶
 ¶
 
 論曰。有法能起摩訶衍信根是故應說　述¶
